@@ -7,16 +7,16 @@ export default function Header() {
             <h1>Hannah Rajarao</h1>
             <Navigation
             links={[
-                <Link key={1} className="nav-link text-light" to="/about">
+                <Link key={1} className="" to="/about">
                 About Me
                 </Link>,
-                <Link key={2} className="nav-link text-light" to="/portfolio">
+                <Link key={2} className="" to="/portfolio">
                 Portfolio
                 </Link>,
-                <Link key={3} className="nav-link text-light" to="/contact">
+                <Link key={3} className="" to="/contact">
                 Contact
                 </Link>,
-                <Link key={4} className="nav-link text-light" to="/resume">
+                <Link key={4} className="" to="/resume">
                 Resume
                 </Link>,
             ]}
