@@ -102,8 +102,7 @@ footer h2 {
 }
 
 @media screen and (min-width: 900px) {
-  #my-work-content,
-  #about-me-content {
+  main {
       width: 880px;
       margin: auto;
   }
