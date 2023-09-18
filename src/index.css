@@ -101,6 +101,15 @@ footer h2 {
   height: 50px;
 }
 
+.form input,
+.form textarea {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+
 @media screen and (min-width: 900px) {
   main {
       width: 880px;
