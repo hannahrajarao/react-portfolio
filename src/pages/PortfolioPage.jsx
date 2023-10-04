@@ -3,6 +3,11 @@ import Project from '../components/Project';
 export default function PorfolioPage() {
     const projectInfo = [
         {
+            "name": "Whispr",
+            "link": "https://whispr-cf4e46930867.herokuapp.com",
+            "imgSrc": "whispr.png"
+        },
+        {
             "name": "Shouter",
             "link": "https://shouterapp-a720f8ccbc1f.herokuapp.com",
             "imgSrc": "shouter.png"
