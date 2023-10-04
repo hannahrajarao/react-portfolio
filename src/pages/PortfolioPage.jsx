@@ -13,6 +13,11 @@ export default function PorfolioPage() {
             "imgSrc": "monochrome-minimalist-minesweeper.png"
         },
         {
+            "name": "Code Quiz",
+            "link": "https://github.com/hannahrajarao/bootcamp-hw-4-code-quiz",
+            "imgSrc": "code-quiz-screenshot.png"
+        },
+        {
             "name": "Color Guessing Game",
             "link": "https://hannahrajarao.github.io/color-guessing-game/",
             "imgSrc": "color-guessing-game.png"
